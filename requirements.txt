@@ -1,0 +1,5 @@
+openai-agents
+python-dotenv
+ipykernel
+nest_asyncio
+playwright
